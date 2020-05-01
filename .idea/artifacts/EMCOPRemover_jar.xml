@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EMCOPRemover:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EMCOPRemover_jar</output-path>
+    <root id="archive" name="EMCOPRemover.jar">
+      <element id="module-output" name="EMC OP Remover" />
+    </root>
+  </artifact>
+</component>
