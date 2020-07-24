@@ -1,5 +1,5 @@
 name: EMCOPRemover
-version: 0.2.0
+version: 0.2.1
 author: DasCodes
 main: codes.das.emcopremover.EMCOPRemover
 api-version: 1.13

@@ -6,6 +6,7 @@ public class EMCOPRemover extends JavaPlugin {
     @Override
     public void onEnable() {
         getServer().getPluginManager().registerEvents(new OPListener(), this);
+        getServer().getPluginManager().registerEvents(new GamemodeListener(), this);
     }
 
     @Override
